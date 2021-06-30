@@ -1,6 +1,5 @@
 <?php 
 
-
 // Pengkondisian denga switch case 
 
 $warna = "Merah";
