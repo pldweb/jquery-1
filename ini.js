@@ -1,4 +1,3 @@
-$(document).ready(function() {
 
 
   function reveal() {
@@ -18,5 +17,3 @@ $(document).ready(function() {
 }
 
 window.addEventListener("scroll", reveal);
-
-});
